@@ -1,8 +1,8 @@
 # Learning-Coding
 ## Introduction
-This Repo contains all of my codes done while learnng Respective Languages C,Java,Pyhton,Rust,...
+This Repo contains all of my codes done while learnng Respective Languages C,Java,Python,Rust,...
 ## Tools-used
-**gcc version 9.3** for Linux (C compiler)\
+**gcc version 9.3** for Linux (C compiler)
 
 **Netbeans 64x** for Java
 ## Motivation
