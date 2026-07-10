@@ -1,0 +1,5 @@
+print ("Hello World!")
+name = input ("What's your name ? ")
+print ("Greetings " + name + " Hope you doing fine, welcome to our humble establishement \n")
+order = input ("what would you like to have today have an idea from the menu\n {Coffee,tea,Esspresso,Milk,Cacao}\n")
+print ("Great choice your "+order+" will be ready in a bit")
